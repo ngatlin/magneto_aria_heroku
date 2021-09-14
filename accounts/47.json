@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "atlantean-site-326010",
+  "private_key_id": "0c99a03b26aef37f22c978235a81daf47df33474",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChGKshdJKwHmTT\n/1zGu1nL4eUI+AroZPaiZxg0pXhbDYQPuNBkBcI/iZ3CKoGINfCOXJZZVSRYtEGa\n38O0VYiIUXpjR8SEjsO0aTyt5DcncJN+8hHwqUCWYyhqHFp2t/UVtSIRXJSzUBLC\nbUMDO40QjXioPsXcs6eJfcYgVEFwHx+ntHwmslgNq6/v5XO8oa/5Fs3B8aJZiodU\nq3hwrX3J/2+s8yLu8pS03W40XN1PCOWXj3y8vDTb07/QToSu6gsh78qJc7xD2Al5\nmIBXY4J2mYkR7mv0pR2ql0iqXkRf3uqM/s4Lg/642RxvVZJD36UFNqREx6opcZ+v\nJt9zrMTbAgMBAAECggEAREFW9KhXJG7kSpxmOz+TFtrht1CdEoUAqKOksl2vpmiO\nHTkxdkeoW1Jb+LIYytUL1M2u2C/GZB0PtOZ9HXGmFRfskpcMURvKGK0EDCtnIPtG\nSyGWb1DO8EkYDQlxXN6pZWanBhMjX+wb3qv7mimHpc1DI4nhPJcT86HKKdV5Gl8x\naJhZlJ5gk6/YTefTtOycZCdHUTPRbC2zI2LUC23eGxJsau7XsVFt+kY1s9S0v9Cb\nD4p9UHn4f1HNXR9vL/WYx7/lyJiIy39Q/8YITx9YbDlMuSQTBWlo76k2H0pMp5b7\nkk5uIyfp9vb0gTVcS3vxdJBD86t5kuf9WOMjCo91FQKBgQDNw3DODg64ZRbm6ZvK\nhmr5/Gzs+QtQv7Idd34gD/wunFxbrD7u3o1ZcTMKvKML2ECDXg9B0YGLv73fSqtx\n7wZiDQ3SvzRWLoDb00boe/73O8T6+f5tKcjgLoFxtQ79Yxju5SjDJFeFyIfcZ1EB\n+piQnCPt34h23U41TOsDgxSddQKBgQDIbXXtyMM3fzzKaObm0EWR1dDnc1jPEWWe\nph+saQccAtcadldZUqPwcAz7LDcRWrTUmWoh70Azoh+rxOzug36ze4Qh6LJJlymj\nmhynke+H2thOzrIbxhXV0izAfZLDjnY7z5JeNqPUld3RmrRazk1mcwX+gXar3Fo2\nobbXliD/DwKBgQCAP6C/zeM+60MrCdAgm0dyKPN7gH6dBd5un1vtgAkexDaMrP9M\nw0o2xWea+ZhmeZM8ThQUYhDsmcYutsvFZ8YCt0A2axaj4LhQS4+WuDJixs4v4EHE\nqJabpGDqDoAZTvrra8nMV4p1yFdl+L91DEyrVabPTNQxwh5M+nRA7CKdQQKBgAZQ\ntKOObOBFyROTpJrnOxnyQ8fXMZgssygBkgPrt0ahrEdwLSZqXTIJRc9wQDfyxLni\nL57sG/jEhfzykoidahObs7khzORWuAAorfh1t7dvJNuu1ZvcbPm0yqYyDrrMtVsD\nGliPni/nnPqqxj4KPBQbUbgIOkYGBm2sQMegOl/vAoGANW2V9wiC3yOGgE3W9qPw\nD3CPnzhEgSvPkckRhAJwXedKHtR3+m/NSJ8OyfcpT0RQ6+hklDXnMKJFTrdHiuw6\nNOwmz8SDodUyIXLWlI69jLXHuWgUbGemD2VmFCyCN7lv4n3pzqD0I5EZ6/WhsnBd\nah+AM0yOpx9DphW3iD6NHNM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-mcobxdqv8o45dy33soug1kc1b4@atlantean-site-326010.iam.gserviceaccount.com",
+  "client_id": "106932965705175955646",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-mcobxdqv8o45dy33soug1kc1b4%40atlantean-site-326010.iam.gserviceaccount.com"
+}
